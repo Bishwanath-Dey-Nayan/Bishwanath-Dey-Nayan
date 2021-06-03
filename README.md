@@ -64,7 +64,6 @@ I am a selt-taught motivated programmer, who loves coding very much. Always enjo
 ### Others
 <a href=""><img align="center" src="./assets/skill-and-tools/docker.svg" alt="Bishwanath Dey Nayan | Skill | Docker" title="Docker" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp;
 <a href=""><img align="center" src="./assets/skill-and-tools/prom.png" alt="Bishwanath Dey Nayan | Skill | Prometheus" title="Prometheus" height="35" width="35" /></a>&nbsp; &nbsp; &nbsp;
-<a href=""><img align="center" src="./assets/skill-and-tools/kafka.png" alt="Bishwanath Dey Nayan | Skill | Kafka" title="Kafka" height="35" width="35" /></a>&nbsp; &nbsp; &nbsp; 
 <a href=""><img align="center" src="./assets/skill-and-tools/Nats.jpg" alt="Bishwanath Dey Nayan | Skill | NATS.IO" title="NATS.IO" height="35" width="35" /></a>&nbsp; &nbsp; &nbsp;
 <a href=""><img align="center" src="./assets/skill-and-tools/kong.png" alt="Bishwanath Dey Nayan | Skill | Kong Gateway" title="Kong Gateway" height="35" width="35" /></a>&nbsp; &nbsp; &nbsp;
 
